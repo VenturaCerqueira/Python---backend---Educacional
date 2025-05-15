@@ -437,3 +437,14 @@ if __name__ == '__main__':
 }
 ```
 ![alt text](/src/assets/img/image.png)
+
+
+### Consulta todos item:
+- Methodo: GET
+- Body:
+![alt text](/src/assets/img/get.png)
+
+### Consultando um unico item :
+- Methodo: GET
+- Body:
+![alt text](/src/assets/img/ConsultaItem.png)
