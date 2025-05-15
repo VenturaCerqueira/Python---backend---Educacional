@@ -7,10 +7,9 @@ app = FastAPI()
 
 # Dados para buscar 
 dados = {
-    1: {"nome": "João", "idade": 30},
-    2: {"nome": "Maria", "idade": 25},
-    3: {"nome": "Pedro", "idade": 28},
-    4: {"nome": "Ana", "idade": 22}
+    1: {"nome": "Anderson", "idade": 35, "cidade": "São Paulo"},
+    2: {"nome": "María", "idade": 28, "cidade": "Bogotá"},
+    3: {"nome": "João", "idade": 42, "cidade": "Lisboa"}
 }
 
 # Modelo para validar os dados de entrada:
