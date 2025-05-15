@@ -16,6 +16,7 @@ dados = {
 class Pessoa(BaseModel):
     nome: str
     idade: int
+    cidade: str
     # Adiciona o campo 'id' para identificar a pessoa
 
 
